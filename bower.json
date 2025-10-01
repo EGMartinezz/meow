@@ -1,0 +1,17 @@
+{
+  "name": "meow",
+  "main": "index.js",
+  "homepage": "https://github.com/EGMartinezz/meow",
+  "description": "game library",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
